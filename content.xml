@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260605110848ZKY8Z2</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606051108489V8V88</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SATELITES ARTIFICIALES</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Universidad Nacional de Loja</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elkin Israel Maza Minga </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Los satélites artificiales son centinelas tecnológicos que orbitan nuestro planeta; verdaderos ojos y oídos en el espacio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780675670715</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq11cyrj-ubkpl3pz0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PORTADA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PORTADA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrj-ubkpl3pz0</odePageId>
+      <odeBlockId>block-1780640727037-gu3do08rt</odeBlockId>
+      <blockName>EXPLORANDO EL SISTEMA SOLAR</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrj-ubkpl3pz0</odePageId>
+          <odeBlockId>block-1780640727037-gu3do08rt</odeBlockId>
+          <odeIdeviceId>idevice-1780640727036-nt400x1wj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;"><br /></h3>
+<h3 style="text-align: center;"><br /></h3>
+<h3 style="text-align: center;"><strong>Explorando el Sistema Solar</strong></h3>
+<p><strong></strong><br /></p>
+<h1 style="text-align: center;"><em><strong>SATÉLITES ARTIFICIALES</strong></em></h1>
+<p><em><strong></strong></em><br /></p>
+<p style="text-align: center;"><br />Tecnología humana en órbita alrededor de la Tierra</p>
+<p style="text-align: center;"><strong>INICIAR MÓDULO </strong></p>
+<p style="text-align: center;">"El GPS de tu celular depende de satélites que orbitan a 20 000 km sobre tu cabeza a 14 000 km/h. Vivimos rodeados de tecnología espacial sin saberlo."</p>
+<p style="text-align: center;"><br /><strong> MóduloT6                Autor                 Duración </strong> </p>
+<p style="text-align: center;">Tecnología             Elkin Maza           45 Minutos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780640727036-nt400x1wj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><br /></h3>\n<h3 style=\"text-align: center;\"><br /></h3>\n<h3 style=\"text-align: center;\"><strong>Explorando el Sistema Solar</strong></h3>\n<p><strong></strong><br /></p>\n<h1 style=\"text-align: center;\"><em><strong>SATÉLITES ARTIFICIALES</strong></em></h1>\n<p><em><strong></strong></em><br /></p>\n<p style=\"text-align: center;\"><br />Tecnología humana en órbita alrededor de la Tierra</p>\n<p style=\"text-align: center;\"><strong>INICIAR MÓDULO </strong></p>\n<p style=\"text-align: center;\">\"El GPS de tu celular depende de satélites que orbitan a 20 000 km sobre tu cabeza a 14 000 km/h. Vivimos rodeados de tecnología espacial sin saberlo.\"</p>\n<p style=\"text-align: center;\"><br /><strong> MóduloT6                Autor                 Duración </strong> </p>\n<p style=\"text-align: center;\">Tecnología             Elkin Maza           45 Minutos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrk-ng2a8hlx1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Objetivo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Objetivo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrk-ng2a8hlx1</odePageId>
+      <odeBlockId>block-1780641768189-gy5uq2eyg</odeBlockId>
+      <blockName>OBJETIVOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrk-ng2a8hlx1</odePageId>
+          <odeBlockId>block-1780641768189-gy5uq2eyg</odeBlockId>
+          <odeIdeviceId>idevice-1780641768188-44pbx835a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong></strong></h1>
+<h1 style="text-align: center;"><strong></strong></h1>
+<h1 style="text-align: center;"><strong></strong></h1>
+<h1 style="text-align: center;"><em><strong>Objetivo</strong></em></h1>
+<p><br /></p>
+<h4 style="text-align: center;">CN 4.4.3. Observar a partir del uso de las TIC la apariencia, componentes de los</h4>
+<h4 style="text-align: center;">satélites artificiales y explicar el tipo de órbita junto con la importancia</h4>
+<h4 style="text-align: center;">científica de estos en el espacio.</h4>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780641768188-44pbx835a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong></strong></h1>\n<h1 style=\"text-align: center;\"><strong></strong></h1>\n<h1 style=\"text-align: center;\"><strong></strong></h1>\n<h1 style=\"text-align: center;\"><em><strong>Objetivo</strong></em></h1>\n<p><br /></p>\n<h4 style=\"text-align: center;\">CN 4.4.3. Observar a partir del uso de las TIC la apariencia, componentes de los</h4>\n<h4 style=\"text-align: center;\">satélites artificiales y explicar el tipo de órbita junto con la importancia</h4>\n<h4 style=\"text-align: center;\">científica de estos en el espacio.</h4>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrk-bj9537r7d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué son los Satélites Artificiales?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué son los Satélites Artificiales?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué son los Satélites Artificiales?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrk-bj9537r7d</odePageId>
+      <odeBlockId>block-1780641935716-o2djglug7</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrk-bj9537r7d</odePageId>
+          <odeBlockId>block-1780641935716-o2djglug7</odeBlockId>
+          <odeIdeviceId>idevice-1780641935714-sezp6riqh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;">  <br /></h3>
+<h3 style="text-align: center;"><em><strong>¿Qué son los Satélites Artificiales?</strong></em></h3>
+<p style="text-align: justify;">Los satélites artificiales son objetos fabricados por humanos que se ponen en órbita alrededor de la Tierra (u otro cuerpo celeste)</p>
+<p style="text-align: justify;">mediante cohetes lanzadores. El primero fue el Sputnik 1, lanzado por la URSS el 4 de octubre de 1957.</p>
+<table border="1" style="width: 88.8127%; height: 278.2px; border-style: dashed; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 278.2px;">
+<td style="width: 58.7737%; height: 278.2px;">
+<p style="text-align: center;"><em><strong>Tipos por Órbita</strong></em></p>
+<ul>
+<li style="text-align: left;">LEO (Órbita Baja): 200–2,000 km. Ej: ISS, Hubble.</li>
+<li style="text-align: left;">MEO (Órbita Media): 2,000–35,000 km. Ej: GPS.</li>
+<li style="text-align: left;">GEO (Geoestacionaria): ~35,786 km. Siempre sobre el mismo punto. Ej: satélites de TV, GOES.</li>
+</ul>
+</td>
+<td style="width: 41.1992%; height: 278.2px; text-align: right;">
+<p style="text-align: center;"><em><strong>Usos Principales</strong></em><em><strong></strong></em></p>
+<ul>
+<li style="text-align: left;">Científico: ISS, Hubble, Chandra.</li>
+<li style="text-align: left;">Navegación: GPS, GLONASS, Galileo.</li>
+<li style="text-align: left;">Meteorológico: GOES, Meteosat.</li>
+<li style="text-align: left;">Comunicaciones: Intelsat, Starlink.</li>
+<li style="text-align: left;">Teledetección: Landsat, Sentinel.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780641935714-sezp6riqh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\">  <br /></h3>\n<h3 style=\"text-align: center;\"><em><strong>¿Qué son los Satélites Artificiales?</strong></em></h3>\n<p style=\"text-align: justify;\">Los satélites artificiales son objetos fabricados por humanos que se ponen en órbita alrededor de la Tierra (u otro cuerpo celeste)</p>\n<p style=\"text-align: justify;\">mediante cohetes lanzadores. El primero fue el Sputnik 1, lanzado por la URSS el 4 de octubre de 1957.</p>\n<table border=\"1\" style=\"width: 88.8127%; height: 278.2px; border-style: dashed; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 278.2px;\">\n<td style=\"width: 58.7737%; height: 278.2px;\">\n<p style=\"text-align: center;\"><em><strong>Tipos por Órbita</strong></em></p>\n<ul>\n<li style=\"text-align: left;\">LEO (Órbita Baja): 200–2,000 km. Ej: ISS, Hubble.</li>\n<li style=\"text-align: left;\">MEO (Órbita Media): 2,000–35,000 km. Ej: GPS.</li>\n<li style=\"text-align: left;\">GEO (Geoestacionaria): ~35,786 km. Siempre sobre el mismo punto. Ej: satélites de TV, GOES.</li>\n</ul>\n</td>\n<td style=\"width: 41.1992%; height: 278.2px; text-align: right;\">\n<p style=\"text-align: center;\"><em><strong>Usos Principales</strong></em><em><strong></strong></em></p>\n<ul>\n<li style=\"text-align: left;\">Científico: ISS, Hubble, Chandra.</li>\n<li style=\"text-align: left;\">Navegación: GPS, GLONASS, Galileo.</li>\n<li style=\"text-align: left;\">Meteorológico: GOES, Meteosat.</li>\n<li style=\"text-align: left;\">Comunicaciones: Intelsat, Starlink.</li>\n<li style=\"text-align: left;\">Teledetección: Landsat, Sentinel.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrl-hxgwgkhfs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Satelite ISS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satelite ISS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satelite ISS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Satelite ISS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrl-hxgwgkhfs</odePageId>
+      <odeBlockId>block-1780642704568-9aw3ixxlj</odeBlockId>
+      <blockName>ISS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrl-hxgwgkhfs</odePageId>
+          <odeBlockId>block-1780642704568-9aw3ixxlj</odeBlockId>
+          <odeIdeviceId>idevice-1780642704567-g22qhh73f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Satélite 1 de 4</strong></em></p>
+<h1 style="text-align: center;"><strong><em>ESTACIÓN ESPACIAL INTERNACIONAL</em></strong></h1>
+<p><img src="{{context_path}}/content/resources/International_Space_Station_after_undocking_of_STS-132.jpg" width="359" height="229" alt="" style="float: left;" /></p>
+<table border="1" style="width: 42.6197%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 9.31346%;"><em><strong>Altitud </strong></em></td>
+<td style="width: 90.6732%;">Orbita a aproximadamente 408 km de la superficie terrestre.</td>
+</tr>
+<tr>
+<td style="width: 9.31346%;"><em><strong>Velocidad</strong></em></td>
+<td style="width: 90.6732%;">27,600 km/h — completa una vuelta a la Tierra en ~92 minutos.</td>
+</tr>
+<tr>
+<td style="width: 9.31346%;"><em><strong>Función</strong></em></td>
+<td style="width: 90.6732%;">Laboratorio científico en microgravedad, operado por 15 países.</td>
+</tr>
+<tr>
+<td style="width: 9.31346%;"><em><strong>Tamaño</strong></em></td>
+<td style="width: 90.6732%;">Tan grande como un campo de fútbol (109 m de longitud).</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;">Desde la ISS se han realizado más de 3,000 experimentos sobre biología, física de fluidos, materiales y medicina espacial.</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780642704567-g22qhh73f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Satélite 1 de 4</strong></em></p>\n<h1 style=\"text-align: center;\"><strong><em>ESTACIÓN ESPACIAL INTERNACIONAL</em></strong></h1>\n<p><img src=\"{{context_path}}/content/resources/International_Space_Station_after_undocking_of_STS-132.jpg\" width=\"359\" height=\"229\" alt=\"\" style=\"float: left;\" /></p>\n<table border=\"1\" style=\"width: 42.6197%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 9.31346%;\"><em><strong>Altitud </strong></em></td>\n<td style=\"width: 90.6732%;\">Orbita a aproximadamente 408 km de la superficie terrestre.</td>\n</tr>\n<tr>\n<td style=\"width: 9.31346%;\"><em><strong>Velocidad</strong></em></td>\n<td style=\"width: 90.6732%;\">27,600 km/h — completa una vuelta a la Tierra en ~92 minutos.</td>\n</tr>\n<tr>\n<td style=\"width: 9.31346%;\"><em><strong>Función</strong></em></td>\n<td style=\"width: 90.6732%;\">Laboratorio científico en microgravedad, operado por 15 países.</td>\n</tr>\n<tr>\n<td style=\"width: 9.31346%;\"><em><strong>Tamaño</strong></em></td>\n<td style=\"width: 90.6732%;\">Tan grande como un campo de fútbol (109 m de longitud).</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">Desde la ISS se han realizado más de 3,000 experimentos sobre biología, física de fluidos, materiales y medicina espacial.</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrm-efvt30nzy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Satelite GPS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satelite GPS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satelite GPS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Satelite GPS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrm-efvt30nzy</odePageId>
+      <odeBlockId>block-1780644562391-9gpqgs8hw</odeBlockId>
+      <blockName>GPS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrm-efvt30nzy</odePageId>
+          <odeBlockId>block-1780644562391-9gpqgs8hw</odeBlockId>
+          <odeIdeviceId>idevice-1780644562389-bwo20ietf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Satélite 2 de 4</strong></em></p>
+<h1 style="text-align: center;"><em><strong>SISTEMA DE POSICIONAMIENTO GLOBAL</strong></em></h1>
+<p><em><span style="font-weight: bolder;"><img src="{{context_path}}/content/resources/gpsbanner.webp" title="GPS" width="916" height="269" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></em></p>
+<p><b><i><br /></i></b></p>
+<table border="1" style="width: 65.4255%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 22.6849%; text-align: center;"><em><strong>Constelación</strong></em></td>
+<td style="width: 77.3018%; text-align: left;">31 satélites operativos en 6 planos orbitales.</td>
+</tr>
+<tr>
+<td style="width: 22.6849%; text-align: center;"><em><strong>Altitud</strong></em></td>
+<td style="width: 77.3018%; text-align: left;">~20,200 km (Órbita Media - MEO).</td>
+</tr>
+<tr>
+<td style="width: 22.6849%; text-align: center;"><em><strong>Precisión</strong></em></td>
+<td style="width: 77.3018%; text-align: left;">Hasta 30 cm en modo civil. Centimétrica en modo militar.</td>
+</tr>
+<tr>
+<td style="width: 22.6849%; text-align: center;"><em><strong>Funcionamiento</strong></em></td>
+<td style="width: 77.3018%; text-align: left;">Trilateración: el receptor mide el tiempo que tarda la señal de al menos 4 satélites.</td>
+</tr>
+</tbody>
+</table>
+<p><em><strong></strong></em><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780644562389-bwo20ietf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Satélite 2 de 4</strong></em></p>\n<h1 style=\"text-align: center;\"><em><strong>SISTEMA DE POSICIONAMIENTO GLOBAL</strong></em></h1>\n<p><em><span style=\"font-weight: bolder;\"><img src=\"{{context_path}}/content/resources/gpsbanner.webp\" title=\"GPS\" width=\"916\" height=\"269\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></em></p>\n<p><b><i><br /></i></b></p>\n<table border=\"1\" style=\"width: 65.4255%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 22.6849%; text-align: center;\"><em><strong>Constelación</strong></em></td>\n<td style=\"width: 77.3018%; text-align: left;\">31 satélites operativos en 6 planos orbitales.</td>\n</tr>\n<tr>\n<td style=\"width: 22.6849%; text-align: center;\"><em><strong>Altitud</strong></em></td>\n<td style=\"width: 77.3018%; text-align: left;\">~20,200 km (Órbita Media - MEO).</td>\n</tr>\n<tr>\n<td style=\"width: 22.6849%; text-align: center;\"><em><strong>Precisión</strong></em></td>\n<td style=\"width: 77.3018%; text-align: left;\">Hasta 30 cm en modo civil. Centimétrica en modo militar.</td>\n</tr>\n<tr>\n<td style=\"width: 22.6849%; text-align: center;\"><em><strong>Funcionamiento</strong></em></td>\n<td style=\"width: 77.3018%; text-align: left;\">Trilateración: el receptor mide el tiempo que tarda la señal de al menos 4 satélites.</td>\n</tr>\n</tbody>\n</table>\n<p><em><strong></strong></em><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrn-909gjx9o2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Satélite Hubble</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satélite Hubble</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satélite Hubble</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrn-909gjx9o2</odePageId>
+      <odeBlockId>block-1780645744898-1bn6cntih</odeBlockId>
+      <blockName>HUBBLE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrn-909gjx9o2</odePageId>
+          <odeBlockId>block-1780645744898-1bn6cntih</odeBlockId>
+          <odeIdeviceId>idevice-1780645744897-qxeq771f8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Satélite 3 de 4</strong></em></p>
+<h1 style="text-align: center;"><em><strong>TELESCOPIO ESPACIAL</strong></em></h1>
+<p><em><strong><img src="{{context_path}}/content/resources/HST-SM4.jpg" title="HUBBLE" width="326" height="245" alt="" style="float: right;" /></strong></em></p>
+<p><br /></p>
+<table border="1" style="width: 59.4844%; border-color: #7e8c8d; border-style: solid; margin-left: auto; margin-right: auto; height: 227.2px;">
+<tbody>
+<tr style="height: 56.8px;">
+<td style="width: 27.8372%; height: 56.8px;"><em><strong>Lanzamiento</strong></em></td>
+<td style="width: 72.1705%; height: 56.8px;">24 de abril de 1990 por el transbordador Discovery.</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 27.8372%; height: 56.8px;"><em><strong>Altitud</strong></em></td>
+<td style="width: 72.1705%; height: 56.8px;">~550 km — completamente fuera de la atmósfera distorsionante.</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 27.8372%; height: 56.8px;"><em><strong>Espejo </strong></em></td>
+<td style="width: 72.1705%; height: 56.8px;">2.4 metros de diámetro; ha tomado más de 1.5 millones de imágenes.</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 27.8372%; height: 56.8px;"><em><strong>Descubrimiento Clave</strong></em></td>
+<td style="width: 72.1705%; height: 56.8px;">Permitió determinar la edad del universo: 13,800 millones de años.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780645744897-qxeq771f8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Satélite 3 de 4</strong></em></p>\n<h1 style=\"text-align: center;\"><em><strong>TELESCOPIO ESPACIAL</strong></em></h1>\n<p><em><strong><img src=\"{{context_path}}/content/resources/HST-SM4.jpg\" title=\"HUBBLE\" width=\"326\" height=\"245\" alt=\"\" style=\"float: right;\" /></strong></em></p>\n<p><br /></p>\n<table border=\"1\" style=\"width: 59.4844%; border-color: #7e8c8d; border-style: solid; margin-left: auto; margin-right: auto; height: 227.2px;\">\n<tbody>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 27.8372%; height: 56.8px;\"><em><strong>Lanzamiento</strong></em></td>\n<td style=\"width: 72.1705%; height: 56.8px;\">24 de abril de 1990 por el transbordador Discovery.</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 27.8372%; height: 56.8px;\"><em><strong>Altitud</strong></em></td>\n<td style=\"width: 72.1705%; height: 56.8px;\">~550 km — completamente fuera de la atmósfera distorsionante.</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 27.8372%; height: 56.8px;\"><em><strong>Espejo </strong></em></td>\n<td style=\"width: 72.1705%; height: 56.8px;\">2.4 metros de diámetro; ha tomado más de 1.5 millones de imágenes.</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 27.8372%; height: 56.8px;\"><em><strong>Descubrimiento Clave</strong></em></td>\n<td style=\"width: 72.1705%; height: 56.8px;\">Permitió determinar la edad del universo: 13,800 millones de años.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyro-wq1w6ignt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Satélite GOES</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satélite GOES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Satélite GOES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyro-wq1w6ignt</odePageId>
+      <odeBlockId>block-1780646034953-8optug9vp</odeBlockId>
+      <blockName>GOES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyro-wq1w6ignt</odePageId>
+          <odeBlockId>block-1780646034953-8optug9vp</odeBlockId>
+          <odeIdeviceId>idevice-1780646034952-2im0pqdm9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Satélite 4 de 4</strong></em></p>
+<h1 style="text-align: center;"><em><strong>SATÉLITES METEOROLÓGICOS</strong></em></h1>
+<p><em><strong><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/goes/spacecraft/goes-r-PADDED-WithEarthReflectionInSolarPanel-.webp?w=1536" width="830" height="370" style="display: block; margin-left: auto; margin-right: auto;" /></strong></em></p>
+<p><em><strong></strong></em></p>
+<table border="1" style="width: 51.7287%; height: 101.4px; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 35.8px;">
+<td style="width: 11.8414%; height: 35.8px;"><em><strong>Tipo</strong></em></td>
+<td style="width: 88.1453%; height: 35.8px;">Geoestacionario (GEO): siempre observa la misma región de la Tierra.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 11.8414%; height: 32.8px;"><em><strong>Altitud</strong></em></td>
+<td style="width: 88.1453%; height: 32.8px;">~35,786 km — su período orbital coincide exactamente con la rotación terrestre.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 11.8414%; height: 32.8px;"><em><strong>Función</strong></em></td>
+<td style="width: 88.1453%; height: 32.8px;">Monitoreo continuo del clima, huracanes, sequías e incendios forestales.</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Un satélite geoestacionario gira junto con la Tierra, lo que le permite observar siempre la misma zona sin interrupción, ideal para seguir tormentas en tiempo real.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780646034952-2im0pqdm9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Satélite 4 de 4</strong></em></p>\n<h1 style=\"text-align: center;\"><em><strong>SATÉLITES METEOROLÓGICOS</strong></em></h1>\n<p><em><strong><img src=\"https://assets.science.nasa.gov/dynamicimage/assets/science/missions/goes/spacecraft/goes-r-PADDED-WithEarthReflectionInSolarPanel-.webp?w=1536\" width=\"830\" height=\"370\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></em></p>\n<p><em><strong></strong></em></p>\n<table border=\"1\" style=\"width: 51.7287%; height: 101.4px; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 35.8px;\">\n<td style=\"width: 11.8414%; height: 35.8px;\"><em><strong>Tipo</strong></em></td>\n<td style=\"width: 88.1453%; height: 35.8px;\">Geoestacionario (GEO): siempre observa la misma región de la Tierra.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 11.8414%; height: 32.8px;\"><em><strong>Altitud</strong></em></td>\n<td style=\"width: 88.1453%; height: 32.8px;\">~35,786 km — su período orbital coincide exactamente con la rotación terrestre.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 11.8414%; height: 32.8px;\"><em><strong>Función</strong></em></td>\n<td style=\"width: 88.1453%; height: 32.8px;\">Monitoreo continuo del clima, huracanes, sequías e incendios forestales.</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Un satélite geoestacionario gira junto con la Tierra, lo que le permite observar siempre la misma zona sin interrupción, ideal para seguir tormentas en tiempo real.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrp-jce1i9cf2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName> Los 4 Satélites Artificiales Clave</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Los 4 Satélites Artificiales Clave</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value> Los 4 Satélites Artificiales Clave</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrp-jce1i9cf2</odePageId>
+      <odeBlockId>block-1780646610078-jkizskvfx</odeBlockId>
+      <blockName>Retroalimentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrp-jce1i9cf2</odePageId>
+          <odeBlockId>block-1780646610078-jkizskvfx</odeBlockId>
+          <odeIdeviceId>idevice-1780646610076-2vxrb7x92</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2><em><strong>Los 4 Satélites Artificiales Clave</strong></em></h2>
+<p> </p>
+<table border="1" style="width: 100%; height: 164px; border-color: #843FA1; border-style: solid;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>Satélite</strong></em></td>
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>Tipo de Órbita </strong></em></td>
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>Altitud</strong></em></td>
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>Función Principal</strong></em></td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><strong>ISS</strong></td>
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>LEO</strong></em></td>
+<td style="width: 24.9867%; height: 32.8px; text-align: center;">~408 km</td>
+<td style="width: 24.9867%; height: 32.8px;">Laboratorio científico orbital.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><strong>GPS</strong></td>
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>MEO</strong></em></td>
+<td style="width: 24.9867%; height: 32.8px; text-align: center;">~20,200 km</td>
+<td style="width: 24.9867%; height: 32.8px;">Navegación y posicionamiento global.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><strong>HUBBLE</strong></td>
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>LEO</strong></em></td>
+<td style="width: 24.9867%; height: 32.8px; text-align: center;">~550 km</td>
+<td style="width: 24.9867%; height: 32.8px;">Observación astronómica sin atmósfera.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><strong>GOES</strong></td>
+<td style="width: 24.9867%; text-align: center; height: 32.8px;"><em><strong>GEO</strong></em></td>
+<td style="width: 24.9867%; height: 32.8px; text-align: center;">~35,786 km</td>
+<td style="width: 24.9867%; height: 32.8px;">Monitoreo meteorológico continuo.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780646610076-2vxrb7x92","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2><em><strong>Los 4 Satélites Artificiales Clave</strong></em></h2>\n<p> </p>\n<table border=\"1\" style=\"width: 100%; height: 164px; border-color: #843FA1; border-style: solid;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>Satélite</strong></em></td>\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>Tipo de Órbita </strong></em></td>\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>Altitud</strong></em></td>\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>Función Principal</strong></em></td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><strong>ISS</strong></td>\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>LEO</strong></em></td>\n<td style=\"width: 24.9867%; height: 32.8px; text-align: center;\">~408 km</td>\n<td style=\"width: 24.9867%; height: 32.8px;\">Laboratorio científico orbital.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><strong>GPS</strong></td>\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>MEO</strong></em></td>\n<td style=\"width: 24.9867%; height: 32.8px; text-align: center;\">~20,200 km</td>\n<td style=\"width: 24.9867%; height: 32.8px;\">Navegación y posicionamiento global.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><strong>HUBBLE</strong></td>\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>LEO</strong></em></td>\n<td style=\"width: 24.9867%; height: 32.8px; text-align: center;\">~550 km</td>\n<td style=\"width: 24.9867%; height: 32.8px;\">Observación astronómica sin atmósfera.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><strong>GOES</strong></td>\n<td style=\"width: 24.9867%; text-align: center; height: 32.8px;\"><em><strong>GEO</strong></em></td>\n<td style=\"width: 24.9867%; height: 32.8px; text-align: center;\">~35,786 km</td>\n<td style=\"width: 24.9867%; height: 32.8px;\">Monitoreo meteorológico continuo.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrq-z8ta6akm9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RETOS 1 - 4</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RETOS 1 - 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RETOS 1 - 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RETOS 1 - 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrq-z8ta6akm9</odePageId>
+      <odeBlockId>block-1780266236393-ga83nq39o</odeBlockId>
+      <blockName>Retos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrq-z8ta6akm9</odePageId>
+          <odeBlockId>block-1780266236393-ga83nq39o</odeBlockId>
+          <odeIdeviceId>idevice-1780266236392-l4hujj553</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780266236392-l4hujj553" data-evaluationb="false" data-evaluationid="ace1b814-30a8-4f6a-8785-c266c3f00e0e"></div>
+            <div id="frmMainContainer-idevice-1780266236392-l4hujj553" class="form-IDevice" data-id="idevice-1780266236392-l4hujj553">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>RETO 1 - SATELITES ARTIFICIALES</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1780266236392-l4hujj553">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780266236392-l4hujj553" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780266236392-l4hujj553" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780266236392-l4hujj553" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780266236392-l4hujj553" > </div>
+                        <div id="frmCover-idevice-1780266236392-l4hujj553" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780266236392-l4hujj553" class="form-results-container inline">
+                        <div id="form-score-idevice-1780266236392-l4hujj553" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1780266236392-l4hujj553" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780266236392-l4hujj553" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1780266236392-l4hujj553" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780266236392-l4hujj553" type="button" value="Reiniciar"
+                            data-id="idevice-1780266236392-l4hujj553" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780266236392-l4hujj553" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1780266236392-l4hujj553" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780266236392-l4hujj553" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780266236392-l4hujj553","evaluation":false,"evaluationID":"ace1b814-30a8-4f6a-8785-c266c3f00e0e","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1780266236392-l4hujj553","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>RETO 1 - SATELITES ARTIFICIALES</p>","questionsData":[{"id":"1780266385523-ONYMQ","activityType":"selection","baseText":"<p>¿Cuál es la principal función científica de la Estación Espacial Internacional?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A) Servir de plataforma de lanzamiento de misiles espaciales."],[false,"B) Observar las galaxias lejanas con telescopios."],[true,"C) Ser un laboratorio de investigación científica en condiciones de microgravedad."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780266688968-1UI0A","activityType":"selection","baseText":"<p>¿Cuántos satélites GPS necesita conectar como mínimo tu dispositivo para calcular una posición tridimensional precisa?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"A) Mínimo 4 satélites (para calcular latitud, longitud, altitud y tiempo)."],[false,"B) Solo 1 satélite es suficiente."],[false,"C) Exactamente 10 satélites."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780266763026-3XDIX","activityType":"selection","baseText":"<p>¿Por qué las imágenes del Hubble son más nítidas que las de cualquier telescopio en la superficie de la Tierra?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A) Porque usa lentes de diamante."],[true,"B) Porque orbita por encima de la atmósfera, que distorsiona y absorbe la luz."],[false,"C) Porque está más cerca de las estrellas."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780266824777-MR6SI","activityType":"selection","baseText":"<p>¿Cómo se llaman los satélites que parecen estar \"fijos\" sobre un mismo punto de la Tierra porque orbitan a la misma velocidad que rota el planeta?<br /> </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A) Satélites polares."],[true,"B) Satélites geoestacionarios."],[false,"C) Satélites de órbita baja."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrr-tci38rqui</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrucciones Actividades</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrucciones Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrucciones Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrr-tci38rqui</odePageId>
+      <odeBlockId>block-1780646850609-dy94h6d0e</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrr-tci38rqui</odePageId>
+          <odeBlockId>block-1780646850609-dy94h6d0e</odeBlockId>
+          <odeIdeviceId>idevice-1780646850608-5pnmern79</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><em><strong>🛰️</strong></em><br /><em><strong>CLASIFICA EN ÓRBITA</strong></em></h1>
+<table border="1" style="width: 100%; height: 65.6px; border-color: #e67e23; border-style: solid;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 49.8936%; height: 32.8px; text-align: center;"><em><strong>Actividad 1 · Clasificación</strong></em></td>
+<td style="width: 50.0931%; height: 32.8px; text-align: center;"><em><strong>Actividad 2 · Asociación</strong></em></td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 49.8936%; height: 32.8px; text-align: center;">Arrastra el nombre de cada satélite a la categoría correcta según su función principal.<br /></td>
+<td style="width: 50.0931%; height: 32.8px; text-align: center;">Empareja cada dato técnico (altitud, función, característica) con el satélite correspondiente.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780646850608-5pnmern79","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><em><strong>🛰️</strong></em><br /><em><strong>CLASIFICA EN ÓRBITA</strong></em></h1>\n<table border=\"1\" style=\"width: 100%; height: 65.6px; border-color: #e67e23; border-style: solid;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 49.8936%; height: 32.8px; text-align: center;\"><em><strong>Actividad 1 · Clasificación</strong></em></td>\n<td style=\"width: 50.0931%; height: 32.8px; text-align: center;\"><em><strong>Actividad 2 · Asociación</strong></em></td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 49.8936%; height: 32.8px; text-align: center;\">Arrastra el nombre de cada satélite a la categoría correcta según su función principal.<br /></td>\n<td style=\"width: 50.0931%; height: 32.8px; text-align: center;\">Empareja cada dato técnico (altitud, función, característica) con el satélite correspondiente.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrr-uma98si65</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MISIÓN 1</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MISIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDAD I</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MISIÓN 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrr-uma98si65</odePageId>
+      <odeBlockId>block-1780267057794-lip09u5ac</odeBlockId>
+      <blockName>Misión 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrr-uma98si65</odePageId>
+          <odeBlockId>block-1780267057794-lip09u5ac</odeBlockId>
+          <odeIdeviceId>idevice-1780267057793-mfxx4j2mq</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Clasifica cada satélite por su función</p>
+<p>Selecciona el nombre del satélite y colócalo en la categoría que corresponda.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Clasifica cada satélite por su función</p>\n<p>Selecciona el nombre del satélite y colócalo en la categoría que corresponda.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#8a6060","eText":"ISS","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#a2819b","eTextBk":"CIENTIFICO"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#b78a8a","eText":"NAVEGACI%C3%93N%20","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#db9595","eTextBk":"GPS"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#834e81","eText":"OBSERVACI%C3%93N%20","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#7ac2b6","eTextBk":"HUBBLE"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#a286e4","eText":"METEOROLOGICO","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ece598","eTextBk":"GOES"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"ace1b814-30a8-4f6a-8785-c266c3f00e0e","id":"idevice-1780267057793-mfxx4j2mq","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1780267057793-mfxx4j2mq" data-evaluationb="false" data-evaluationid="ace1b814-30a8-4f6a-8785-c266c3f00e0e"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrr-4sgrx3ogs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MISIÓN 2</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MISIÓN 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDAD II</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MISIÓN 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrr-4sgrx3ogs</odePageId>
+      <odeBlockId>block-1780267416737-snqg92oic</odeBlockId>
+      <blockName>MISIÓN 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrr-4sgrx3ogs</odePageId>
+          <odeBlockId>block-1780267416737-snqg92oic</odeBlockId>
+          <odeIdeviceId>idevice-1780267416736-ognfl74a2</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="selecciona-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780267416736-ognfl74a2" data-evaluationb="false" data-evaluationid="ace1b814-30a8-4f6a-8785-c266c3f00e0e"></div><div class="selecciona-instructions SLCNP-instructions"><p>Empareja el dato técnico con el satélite</p>
+<p> </p></div><div class="selecciona-version js-hidden">undefined</div><div class="selecciona-feedback-game"></div><div class="selecciona-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D7%FF%E2%F3%E0%F7%F8%F3%B7%A0%A2%F7%FE%B7%A0%A2%F6%F3%E6%FD%B7%A0%A2%E6%B7%D7%AB%F1%FC%FB%F1%FD%B7%A0%A2%F1%FD%FC%B7%A0%A2%F7%FE%B7%A0%A2%E1%F3%E6%B7%D7%AB%FE%FB%E6%F7%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%B7%D3%A2%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D7%FE%FB%F5%F7%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%EB%B2%FA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F0%FD%E6a%FC%B2%E2%F3%E0%F3%B2%F1%FD%FF%E2%E0%FD%F0%F3%E0%FE%F3%E1%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E1%F7%FE%F7%F1%E6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%DD%E0%F0%FB%E6%F3%B2%F3%B2%EC%A7%A7%A2%B2%F9%FF%B2%F6%F7%B2%F3%FE%E6%FB%E6%E7%F6%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%DB%C1%C1%B0%BE%B0%D5%DD%D7%C1%B0%BE%B0%D5%C2%C1%B0%BE%B0%DA%C7%D0%D0%DE%D7%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D6%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%D3%FE%E6%FB%E6%E7%F6%B2%EC%A1%A7%BE%A5%AA%A4%B2%F9%FF%B2%BA%F5%F7%FD%F7%E1%E6%F3%F1%FB%FD%FC%F3%E0%FB%FD%BB%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%DB%C1%C1%B0%BE%B0%D5%C2%C1%B0%BE%B0%DA%C7%D0%D0%DE%D7%B0%BE%B0%D5%DD%D7%C1%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D6%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%B2%A6%B2%E1%F7c%F3%FE%F7%E1%B2%E2%F3%E0%F3%B2%E7%F0%FB%F1%F3%E0%E6%F7%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%DA%C7%D0%D0%DE%D7%B0%BE%B0%D5%DD%D7%C1%B0%BE%B0%D5%C2%C1%B0%BE%B0%DB%C1%C1%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D1%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%DE%F3%F0%FD%E0%F3%E6%FD%E0%FB%FD%B2%FD%E0%F0%FB%E6%F3%FE%B2%BA%FF%FB%F1%E0%FD%F5%E0%F3%E4%F7%F6%F3%F6%BB%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%DA%C7%D0%D0%DE%D7%B0%BE%B0%D5%DD%D7%C1%B0%BE%B0%D5%C2%C1%B0%BE%B0%DB%C1%C1%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D6%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%FD%E0%F6%F7%E0%B0%A8%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A1%BC%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F3%E7%F6%FB%FD%D4%F7%F7%F6%D0%F3%F1%FA%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F3%F1%F7%A3%F0%AA%A3%A6%BF%A1%A2%F3%AA%BF%A6%F4%A4%F3%BF%AA%A5%AA%A7%BF%F1%A0%A4%A4%F1%A1%F4%A2%A2%F7%A2%F7%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%A0%A4%A5%A6%A3%A4%A5%A1%A4%BF%FD%F5%FC%F4%FE%A5%A6%F3%A0%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%7F%F6%F7%FD%B2%F6%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C0%FB%F1%F9%C6%F7%EA%E6%B0%A8%B0%C6%F7%EA%E6%FD%B2%F7%FC%E0%FB%E3%E7%F7%F1%FB%F6%FD%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%DD%E0%F6%F7%E0%E1%B0%A8%B0%DD%E0%F6%F7%FC%F3%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%EF%EF</div><div class="selecciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrs-0jeoaassy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>FINAL MISIÓN</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FINAL MISIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>FINAL MISIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq11cyrs-0jeoaassy</odePageId>
+      <odeBlockId>block-1780267837169-37sbnetxi</odeBlockId>
+      <blockName>Misión Final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq11cyrs-0jeoaassy</odePageId>
+          <odeBlockId>block-1780267837169-37sbnetxi</odeBlockId>
+          <odeIdeviceId>idevice-1780267837168-gao8ucnv9</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780267837168-gao8ucnv9" data-evaluationb="false" data-evaluationid="ace1b814-30a8-4f6a-8785-c266c3f00e0e"></div>
+            <div id="frmMainContainer-idevice-1780267837168-gao8ucnv9" class="form-IDevice" data-id="idevice-1780267837168-gao8ucnv9">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>RESPONDE A LAS SIGUIENTES PREGUNTAS EN BASE AL TEMA</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1780267837168-gao8ucnv9">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780267837168-gao8ucnv9" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780267837168-gao8ucnv9" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780267837168-gao8ucnv9" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780267837168-gao8ucnv9" > </div>
+                        <div id="frmCover-idevice-1780267837168-gao8ucnv9" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780267837168-gao8ucnv9" class="form-results-container inline">
+                        <div id="form-score-idevice-1780267837168-gao8ucnv9" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1780267837168-gao8ucnv9" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780267837168-gao8ucnv9" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1780267837168-gao8ucnv9" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780267837168-gao8ucnv9" type="button" value="Reiniciar"
+                            data-id="idevice-1780267837168-gao8ucnv9" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780267837168-gao8ucnv9" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1780267837168-gao8ucnv9" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780267837168-gao8ucnv9" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780267837168-gao8ucnv9","evaluation":false,"evaluationID":"ace1b814-30a8-4f6a-8785-c266c3f00e0e","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1780267837168-gao8ucnv9","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>RESPONDE A LAS SIGUIENTES PREGUNTAS EN BASE AL TEMA</p>","questionsData":[{"id":"1780267945945-L0CIJ","activityType":"selection","baseText":"<p>¿En qué año fue lanzado el primer satélite artificial de la historia, el Sputnik 1, iniciando la era espacial?</p>\n<p> </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"1945."],[false,"1969, el mismo año del alunizaje.\n"],[true,"1957, lanzado por la Unión Soviética.\n"],[false,"1980"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780267999929-7GZUB","activityType":"selection","baseText":"<p>¿Cuál es la principal diferencia entre un satélite LEO (órbita baja) y uno GEO (geoestacionario)?</p>\n<p> </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"La altitud y el período orbital: LEO está más cerca y orbita más rápido.\n"],[false,"El tamaño: los satélites GEO son siempre más pequeños.\n"],[false,"El país que los lanzó.\n"],[false,"No hay diferencia real entre ellos.\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780268050434-A04JZ","activityType":"selection","baseText":"<p>¿El sistema GPS fue originalmente desarrollado y sigue siendo operado por?</p>\n<p> </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"La Agencia Espacial Europea (ESA).\n"],[true,"El Departamento de Defensa de los Estados Unidos.\n"],[false,"Google Maps Corporation.\n"],[false,"La ONU a través de sus agencias especializadas.\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780268099505-RALSS","activityType":"selection","baseText":"<p>¿Para qué se utilizan principalmente los satélites de teledetección como Landsat o Sentinel?</p>\n<p> </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Para escuchar las señales de radio de otras civilizaciones.\n"],[true,"Para observar y monitorear la superficie terrestre (deforestación, glaciares, cultivos).\n"],[false,"Para transmitir señales de televisión por cable.\n"],[false,"Para fabricar materiales en microgravedad.\n"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq11cyrs-btorfqfga</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Test</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Test</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Test</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
